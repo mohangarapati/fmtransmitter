@@ -4,7 +4,7 @@ Procedure
 
 # https://github.com/mohangarapati/fmtransmitter
 
-2. Open your Radio App on your phone or if you still have a functioning radio tune to 100Mhz and then in your terminal type # # sudo ./pifm sound.wav 100.0
+2. Open your Radio App on your phone or if you still have a functioning radio tune to 100Mhz and then in your terminal type  # sudo ./pifm sound.wav 100.0
 # sudo ./pifm sound.wav 100.0 
 
 
