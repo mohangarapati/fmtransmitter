@@ -42,7 +42,7 @@ To start it, simply enter the name in the command line, like so:
 
 This presents a more graphical view (image 8,9,10) of the volume and information regarding the USB audio device. Using the arrow keys on your keyboard, select the volume column and adjust the volume higher or lower, dependent on your needs. Where possible, keep the volume level below 80–90% to avoid any distortion.
 
-# Step 5: Transmit Your Voice to FM Band
+# Transmit Your Voice to FM Band
 
 Our FM transmitter and Microphone setup is ready to transmit our voice. Here is the command you will use to start the broadcast. Each piece will be explained. Note that this command may need modified to work for your mic, just keep reading.
 
