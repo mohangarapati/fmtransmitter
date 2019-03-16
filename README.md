@@ -20,7 +20,7 @@ The Raspberry Pi comes with a 3.5mm analogue stereo audio output, but no input. 
 Make sure your Raspberry Pi is turned off and insert the USB audio device into one of the USB sockets on the Raspberry Pi, and then power up your Raspberry Pi. The USB audio device should be automatically installed. Go in SSH or LXTerminal window and type the following and press Enter
 
 
-sudo apt-get install alsa-utils
+# sudo apt-get install alsa-utils
 
 
 You may already have this package on your system, but entering this command won't do any harm even if you do. This will install a package of ALSA utilities if you don't already have them (ALSA stands for Advances Linux Sound Architecture.
